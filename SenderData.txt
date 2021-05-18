@@ -1,0 +1,30 @@
+
+{"Searched":"Clear","Date":"Tue May 18 2021 14:09:54 GMT+0530 (India Standard Time)","FirstName":"viral","LastName":"vaghela","ChatId":720680813}
+{"Searched":"Google","Date":"Tue May 18 2021 14:11:36 GMT+0530 (India Standard Time)","FirstName":"viral","LastName":"vaghela","ChatId":720680813}
+{"Searched":"Cat","Date":"Tue May 18 2021 14:11:50 GMT+0530 (India Standard Time)","FirstName":"viral","LastName":"vaghela","ChatId":720680813}
+{"Searched":"Car","Date":"Tue May 18 2021 14:12:02 GMT+0530 (India Standard Time)","FirstName":"viral","LastName":"vaghela","ChatId":720680813}
+{"Searched":"Jhhhahhabs","Date":"Tue May 18 2021 14:17:55 GMT+0530 (India Standard Time)","FirstName":"Kashyap","LastName":"Vadi","ChatId":761009552}
+{"Searched":"Lol","Date":"Tue May 18 2021 14:18:03 GMT+0530 (India Standard Time)","FirstName":"Kashyap","LastName":"Vadi","ChatId":761009552}
+{"Searched":"Rupani","Date":"Tue May 18 2021 14:18:21 GMT+0530 (India Standard Time)","FirstName":"Kashyap","LastName":"Vadi","ChatId":761009552}
+{"Searched":"Test","Date":"Tue May 18 2021 14:27:31 GMT+0530 (India Standard Time)","FirstName":"viral","LastName":"vaghela","ChatId":720680813}
+{"Searched":"Rupani","Date":"Tue May 18 2021 14:27:36 GMT+0530 (India Standard Time)","FirstName":"viral","LastName":"vaghela","ChatId":720680813}
+{"Searched":"Lol","Date":"Tue May 18 2021 14:27:42 GMT+0530 (India Standard Time)","FirstName":"viral","LastName":"vaghela","ChatId":720680813}
+{"Searched":"Flutter","Date":"Tue May 18 2021 14:28:27 GMT+0530 (India Standard Time)","FirstName":"Abd Alftah","LastName":"Al shanti","ChatId":566055344}
+{"Searched":"coding","Date":"Tue May 18 2021 14:28:40 GMT+0530 (India Standard Time)","FirstName":"Abd Alftah","LastName":"Al shanti","ChatId":566055344}
+{"Searched":"ass","Date":"Tue May 18 2021 14:28:51 GMT+0530 (India Standard Time)","FirstName":"Abd Alftah","LastName":"Al shanti","ChatId":566055344}
+{"Searched":"Bike","Date":"Tue May 18 2021 14:28:51 GMT+0530 (India Standard Time)","FirstName":"K","ChatId":962187618}
+{"Searched":"pussy","Date":"Tue May 18 2021 14:29:08 GMT+0530 (India Standard Time)","UserName":"Abd_Alftah_Al_shanti","FirstName":"Abd Alftah","LastName":"Al shanti","ChatId":566055344}
+{"Searched":"Flutter","Date":"Tue May 18 2021 14:29:58 GMT+0530 (India Standard Time)","UserName":"viralvaghela","FirstName":"viral","LastName":"vaghela","ChatId":720680813}
+{"Searched":"Cakes","Date":"Tue May 18 2021 14:38:25 GMT+0530 (India Standard Time)","FirstName":"Tanvi","ChatId":925494454}
+{"Searched":"Nature","Date":"Tue May 18 2021 14:38:40 GMT+0530 (India Standard Time)","FirstName":"Tanvi","ChatId":925494454}
+{"Searched":"Pizza","Date":"Tue May 18 2021 14:38:45 GMT+0530 (India Standard Time)","FirstName":"Tanvi","ChatId":925494454}
+{"Searched":"Cake","Date":"Tue May 18 2021 14:39:19 GMT+0530 (India Standard Time)","UserName":"viralvaghela","FirstName":"viral","LastName":"vaghela","ChatId":720680813}
+{"Searched":"Pizza","Date":"Tue May 18 2021 14:39:31 GMT+0530 (India Standard Time)","UserName":"viralvaghela","FirstName":"viral","LastName":"vaghela","ChatId":720680813}
+{"Searched":"Feel good","Date":"Tue May 18 2021 14:49:05 GMT+0530 (India Standard Time)","UserName":"Anil_262","FirstName":"Anil","LastName":"Kumar","ChatId":684010064}
+{"Searched":"Devotional","Date":"Tue May 18 2021 14:49:29 GMT+0530 (India Standard Time)","UserName":"Anil_262","FirstName":"Anil","LastName":"Kumar","ChatId":684010064}
+{"Searched":"Hindu God","Date":"Tue May 18 2021 14:49:44 GMT+0530 (India Standard Time)","UserName":"Anil_262","FirstName":"Anil","LastName":"Kumar","ChatId":684010064}
+{"Searched":"Lord shiva","Date":"Tue May 18 2021 14:49:57 GMT+0530 (India Standard Time)","UserName":"Anil_262","FirstName":"Anil","LastName":"Kumar","ChatId":684010064}
+{"Searched":"Feel good","Date":"Tue May 18 2021 14:55:23 GMT+0530 (India Standard Time)","UserName":"viralvaghela","FirstName":"viral","LastName":"vaghela","ChatId":720680813}
+{"Searched":"Lord shiva","Date":"Tue May 18 2021 14:55:54 GMT+0530 (India Standard Time)","UserName":"viralvaghela","FirstName":"viral","LastName":"vaghela","ChatId":720680813}
+{"Searched":"Tutorial","Date":"Tue May 18 2021 14:56:19 GMT+0530 (India Standard Time)","UserName":"Wilgun","FirstName":"William","LastName":"Gunawan","ChatId":943421430}
+{"Searched":"Tutorial","Date":"Tue May 18 2021 14:56:49 GMT+0530 (India Standard Time)","UserName":"viralvaghela","FirstName":"viral","LastName":"vaghela","ChatId":720680813}

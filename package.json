@@ -1,0 +1,25 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "learning to create telegram bot using js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "js",
+    "telegraph"
+  ],
+  "author": "viralvaghela",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "@types/node": "^15.3.0",
+    "telegraf": "^4.3.0"
+  }
+}
