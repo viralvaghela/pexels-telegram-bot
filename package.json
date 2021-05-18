@@ -12,11 +12,15 @@
     "js",
     "telegraph"
   ],
+  
   "author": "viralvaghela",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^9.0.2",
     "node-fetch": "^2.6.1"
+  },
+  "engines": {
+    "node": "14.x"
   },
   "devDependencies": {
     "@types/node": "^15.3.0",
