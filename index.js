@@ -10,7 +10,7 @@ const BASE_URL = "https://api.pexels.com/v1/search?query=";
 
 bot.start(ctx => {
     //    console.log(ctx.message);
-    ctx.replyWithMarkdown("Welcome Dear,Here you can search and Download HD Wallpepers 😎 ");
+    ctx.replyWithMarkdown("Welcome " +ctx.message.from.first_name +", Here you can search and Download Wallpepers 😎 ");
     ctx.replyWithMarkdown("Type here 👇 what do you want to search ? 🔍 ");
 
 });
